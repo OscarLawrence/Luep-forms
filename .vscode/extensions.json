@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "firsttris.vscode-jest-runner",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "cpylua.language-postcss"
+  ]
+}
